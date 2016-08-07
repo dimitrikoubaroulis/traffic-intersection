@@ -6,6 +6,8 @@ To run the unit tests install NUnit 2.6.4 console runner:
 
 https://github.com/nunit/nunitv2/releases/download/2.6.4/NUnit-2.6.4.msi
 
+Solution and binaries provided are built with Visual Studio 2015.
+
 # Running a live simulation
 
 From a command prompt run

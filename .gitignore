@@ -1,3 +1,4 @@
 TrafficLights/obj/**
 *vshost*
 */*/*/TestResult.xml
+.suo

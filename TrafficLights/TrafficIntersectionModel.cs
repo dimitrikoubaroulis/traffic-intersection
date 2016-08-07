@@ -9,11 +9,6 @@ namespace TrafficLights {
             NorthSouthYellowEastWestRed
         }
 
-        public TrafficIntersectionModel() {
-            LightState = LightStates.NorthSouthGreenEastWestRed;
-            LastStateTransitionAt = DateTime.Now;
-        }
-
         public TrafficIntersectionModel(LightStates lightState, DateTime lastTransitionAt) {
             LightState = lightState;
             LastStateTransitionAt = lastTransitionAt;
