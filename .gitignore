@@ -1,0 +1,3 @@
+TrafficLights/obj/**
+*vshost*
+*/*/*/TestResult.xml
